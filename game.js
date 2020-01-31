@@ -1,6 +1,6 @@
 let cores = ['red', 'green', 'blue', 'yellow'];
 let sequencia = [];
-let' seqPlayer = [];
+let seqPlayer = [];
 let contagemClicks = 0;
 var jogo = () => {
     $(document).off().on("keydown", (e) => {
